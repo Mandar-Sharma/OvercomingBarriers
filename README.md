@@ -1,6 +1,6 @@
 # Overcoming-Barriers
 
-This repository contains anonymously hosted code-base for the submission **Overcoming Barriers to Skill Injection in Language Modeling: Case Study in Arithmetic** to the Math-AI Workshop NIPS 2022.
+This repository contains the code-base for the submission **Overcoming Barriers to Skill Injection in Language Modeling: Case Study in Arithmetic** accepted to the Math-AI Workshop NIPS 2022.
 
 Please follow the steps below to setup your environment to run this code-base:
 1. Run ```pip install -r requirements.txt```
@@ -23,3 +23,4 @@ If you find our work to be helpful to your research/projects, please don't forge
 
 Regards,
 Overcoming Barries Authors
+mandarsharma@vt.edu
